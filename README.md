@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @Markkost9
-- 👀 I’m interested in Python and Javascript
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me markokostic9@gmail.com
+# Marko Kostic
 
-<!---
-Markkost9/Markkost9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Science & Artificial Intelligence student focused on machine learning, data analysis, and applied statistical modeling.
+
+## 🔍 Interests
+- Machine Learning
+- Predictive Modeling
+- Data Analysis
+- Model Evaluation & Optimization
+
+## 🛠️ Technical Skills
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL
+- Data Visualization (Matplotlib, Seaborn)
+- Machine Learning (Regression, Random Forest)
+- Git & GitHub
+
+## 📂 Featured Project
+🏠 Housing Price Prediction – Machine Learning  
+Built and evaluated multiple regression models on structured real-estate data.  
+Random Forest achieved R² ≈ 0.69.
+
+Repository:  
+https://github.com/Markkost9/housing-price-prediction-ml
+
+---
+
+Open to Junior Data Scientist / Data Analyst opportunities.
